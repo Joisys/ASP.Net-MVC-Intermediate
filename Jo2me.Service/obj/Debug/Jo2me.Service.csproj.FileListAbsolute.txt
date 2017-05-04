@@ -1,0 +1,17 @@
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Service.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Service.pdb
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Interface.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Model.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Data.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\EntityFramework.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Interface.pdb
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Model.pdb
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Jo2me.Data.pdb
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\EntityFramework.xml
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\obj\Debug\Jo2me.Service.csprojResolveAssemblyReference.cache
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\obj\Debug\Jo2me.Service.dll
+C:\GitHub\ASP.Net-MVC-Intermediate\Jo2me.Service\obj\Debug\Jo2me.Service.pdb

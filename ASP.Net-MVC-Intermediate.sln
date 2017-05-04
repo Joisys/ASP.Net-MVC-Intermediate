@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2me.Model", "Jo2me.Model\Jo2me.Model.csproj", "{37926222-AB3F-4DBA-A20D-C2AF3B834BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2me.Data", "Jo2me.Data\Jo2me.Data.csproj", "{6405EEC4-411C-4744-8256-030D6C0162DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2me.Infrastructure", "Jo2me.Infrastructure\Jo2me.Infrastructure.csproj", "{907DB1D2-E6B9-4E5F-A6EC-53DEE3DACEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2me.Interface", "Jo2me.Interface\Jo2me.Interface.csproj", "{66F551AE-792A-4597-8D2B-326715B3171B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2me.Service", "Jo2me.Service\Jo2me.Service.csproj", "{67A9C1CB-84BD-4F5E-80B3-76168C8AE20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jo2me.Web", "Jo2me.Web\Jo2me.Web.csproj", "{34E0FC00-B238-4367-BB3D-5D96A81E95E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37926222-AB3F-4DBA-A20D-C2AF3B834BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37926222-AB3F-4DBA-A20D-C2AF3B834BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37926222-AB3F-4DBA-A20D-C2AF3B834BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37926222-AB3F-4DBA-A20D-C2AF3B834BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6405EEC4-411C-4744-8256-030D6C0162DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6405EEC4-411C-4744-8256-030D6C0162DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6405EEC4-411C-4744-8256-030D6C0162DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6405EEC4-411C-4744-8256-030D6C0162DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907DB1D2-E6B9-4E5F-A6EC-53DEE3DACEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907DB1D2-E6B9-4E5F-A6EC-53DEE3DACEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907DB1D2-E6B9-4E5F-A6EC-53DEE3DACEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907DB1D2-E6B9-4E5F-A6EC-53DEE3DACEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F551AE-792A-4597-8D2B-326715B3171B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F551AE-792A-4597-8D2B-326715B3171B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F551AE-792A-4597-8D2B-326715B3171B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F551AE-792A-4597-8D2B-326715B3171B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A9C1CB-84BD-4F5E-80B3-76168C8AE20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A9C1CB-84BD-4F5E-80B3-76168C8AE20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A9C1CB-84BD-4F5E-80B3-76168C8AE20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A9C1CB-84BD-4F5E-80B3-76168C8AE20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E0FC00-B238-4367-BB3D-5D96A81E95E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E0FC00-B238-4367-BB3D-5D96A81E95E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E0FC00-B238-4367-BB3D-5D96A81E95E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E0FC00-B238-4367-BB3D-5D96A81E95E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

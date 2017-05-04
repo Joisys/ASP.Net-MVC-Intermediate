@@ -1,0 +1,20 @@
+﻿@model Jo2me.Web.Models.LocationViewModel
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Edit Location</h2>
+<hr />
+@using (Html.BeginForm("Update", "Location"))
+{
+    <fieldset>
+        @Html.HiddenFor(model => model.Id)
+        @Html.TextBoxFor(model => model.Title)
+        <input type="submit" value="Edit" />
+    </fieldset>
+}
+<hr />
+@Html.ActionLink("Back to List", "Index")
+
+
